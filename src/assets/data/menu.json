@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "id": "getting-started",
+      "title": "Getting Started"
+    },
+    {
+      "id": "ionic-weather",
+      "title": "App: Ionic Weather",
+      "pages": [
+        {
+          "id": "ionic-weather-step01",
+          "title": "Lab: Generate the Application"
+        },
+        {
+          "id": "ionic-weather-step02",
+          "title": "Lab: Integrate Ionic Pro"
+        },
+        {
+          "id": "ionic-weather-step03",
+          "title": "Lab: Monitor Errors"
+        },
+        {
+          "id": "ionic-weather-step04",
+          "title": "Lab: Layout Pages"
+        },
+        {
+          "id": "ionic-weather-step05",
+          "title": "Lab: Style"
+        },
+        {
+          "id": "ionic-weather-step06",
+          "title": "Lab: Use a Library"
+        },
+        {
+          "id": "ionic-weather-step07",
+          "title": "Lab: Getting Data",
+          "pages": [
+            {
+              "id": "ionic-weather-step07-01",
+              "title": "Completed Code"
+            }
+          ]
+        },
+        {
+          "id": "ionic-weather-step08",
+          "title": "Lab: Use the Data",
+          "pages": [
+            {
+              "id": "ionic-weather-step08-01",
+              "title": "Completed Code"
+            }
+          ]
+        },
+        {
+          "id": "ionic-weather-step09",
+          "title": "Lab: Using Plugins"
+        },
+        {
+          "id": "ionic-weather-step10",
+          "title": "Lab: Plugins vs. Web API"
+        },
+        {
+          "id": "ionic-weather-step11",
+          "title": "Lab: User Preferences"
+        },
+        {
+          "id": "ionic-weather-step12",
+          "title": "Lab: Lazy Loading"
+        }
+      ]
+    }
+  ]
+}
